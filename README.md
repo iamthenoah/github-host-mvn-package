@@ -41,6 +41,8 @@
 
 # 2. Deploy
 
+> mvn clean deploy (-DskipTests)
+
 ```xml
   <distributionManagement>
     <repository>
