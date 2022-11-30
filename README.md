@@ -1,4 +1,4 @@
-# 1. configure ~/.m2/settings.yml
+# 1. configure ~/.m2/settings.xml
 
 ```xml
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
